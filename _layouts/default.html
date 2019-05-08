@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="col-main">
+          {{ content }}
+        </div>
+        <div class="col-second">
+          {% include sidebar.html %}
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
+    
+    <div id="back-top">
+    <a href="#top" title="回到顶部"></a>
+    </div>
+    
+    <script type="text/javascript">
+    $("#back-top").hide();
+    $(document).ready(function () {
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                $('#back-top').fadeIn();
+            } else {
+                $('#back-top').fadeOut();
+            }
+        });
+        $('#back-top a').click(function () {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+    </script>
+    
+    {% include footer.html %}
+
+    {% include new-window.html %}
+
+  </body>
+
+</html>

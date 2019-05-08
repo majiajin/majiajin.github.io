@@ -1,0 +1,28 @@
+@keyframes ebani-fadein {
+    0% { opacity: 0 }
+    100% { opacity: 1 }
+}
+
+@keyframes ebani-descend {
+    0% { transform: translateY(-10px); opacity: 0.7; }
+    100% { }
+}
+
+@keyframes ebani-ascend {
+    0% { transform: translateY(10px); }
+    100% { }
+}
+
+#back-top {
+  position: fixed;
+  bottom: 30px;
+  margin-left: 88%;
+}
+#back-top a {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-top: 5px solid #aaa;
+    border-right: 5px solid #aaa;
+    transform: rotate(-45deg);
+}
