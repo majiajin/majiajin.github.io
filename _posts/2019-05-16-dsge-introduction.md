@@ -93,13 +93,13 @@ Galí (2015) 是 DSGE 模型的经典教科书，本章中的「2. DSGE 模型�
 > 
 > [http://www.tup.com.cn/upload/books/yz/074344-01.pdf](http://www.tup.com.cn/upload/books/yz/074344-01.pdf)
 > 
-> 李向阳. (2018). 动态随机一般均衡 (DSGE) 模型：理论、方法和Dynare实践
+> *李向阳. (2018). 动态随机一般均衡 (DSGE) 模型：理论、方法和Dynare实践*
 >
 > [2] Chapter 1: Introduction
 > 
 > [http://assets.press.princeton.edu/chapters/s10495.pdf](http://assets.press.princeton.edu/chapters/s10495.pdf)
 > 
-> Galí, Jordi. (2015). Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework and Its Applications (Second Edition)
+> *Galí, Jordi. (2015). Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework and Its Applications (Second Edition)*
 
 
 ## 参考文献
