@@ -18,11 +18,11 @@ permalink: /archivers/dsge_introduction
 
 (3) 一般均衡 (General Equilibrium) ：模型中所有市场同时出清，从而得以分析各经济主体和经济变量之间的相互联系与相互影响。
 
+<!--more-->
+
 传统的计量经济模型存在一些难以忽视的缺点，例如：在模型设定上不是从经济个体的最优化行为决策出发，缺乏微观经济理论基础；微观经济分析和宏观经济分析基本处于割裂状态，模型缺乏良好的整体性；模型中通常采用静态预期或自适应预期，而不是理性预期，从而影响模型的模拟结果和政策分析；通常是非结构性模型，因此无法避免卢卡斯批判等。相比之下，DSGE 模型具有理论上的严谨性和一致性，在建模框架上呈现出显性的结构特点，在政策分析上具有优越性 (刘斌，2008) 。
 
 DSGE 模型主要有三方面的作用：讲故事、政策实验以及经济预测 (Del Negro & Schorfheide，2013) 。三者相辅相成，不可分割：构建符合现实的理论模型，以此探讨各经济变量之间的相互作用与联动关系，此谓“讲故事”；政策实验需要依托于设定良好的模型，从而考察不同经济政策对实际经济运行造成的影响；经济预测的准确性是检验模型设定是否合理的评判标准之一，而且更好的经济预测手段可以让央行和政府及早发现经济问题，及时采取合适的经济政策，从而更好地稳定经济。
-
-<!--more-->
 
 ## 2. DSGE 模型的类型
 
@@ -50,7 +50,7 @@ RBC 模型对宏观经济理论带来的冲击主要体现在以下三个方面�
 
 ### 2.2 新凯恩斯主义 (NK) 模型
 
-无论是标准形式抑或更加复杂的扩展形式，NK 模型与 RBC 模型具有许多相似的核心设定： (1) 一个无限期生存的代表性家庭在跨期预算约束下，试图最大化基于消费和闲暇的效用； (2) 大量厂商具有相同的、并且服从外生随机变动的技术； (3) 均衡具有随机过程的形式，在给定家庭和厂商的目标和约束条件下，经济中所有的内生变量与家庭和厂商的最优跨期决策相一致，同时所有市场出清。
+无论是标准形式抑或更加复杂的扩展形式，NK 模型与 RBC 模型具有许多相似的核心设定：(1) 一个无限期生存的代表性家庭在跨期预算约束下，试图最大化基于消费和闲暇的效用；(2) 大量厂商具有相同的、并且服从外生随机变动的技术；(3) 均衡具有随机过程的形式，在给定家庭和厂商的目标和约束条件下，经济中所有的内生变量与家庭和厂商的最优跨期决策相一致，同时所有市场出清。
 
 但是 NK 模型在 RBC 模型具有的 DSGE 结构特征的基础上，增加了一些不同于古典货币模型的关键假设：
 
@@ -60,7 +60,7 @@ RBC 模型对宏观经济理论带来的冲击主要体现在以下三个方面�
 
 (3) 货币政策的短期非中性。由于存在名义刚性，短期内名义利率 (无论是由中央银行直接决定，还是由货币供给和需求的变动所导致) 并不会与预期通货膨胀率同等变化，从而导致实际利率发生变动。实际利率的变动引起消费、投资、总产出和就业的变动，因为厂商调整产品供给以满足新的需求水平。但是在长期中，所有的价格和工资都将调整，经济将回归到其自然均衡。
 
-NK 模型具有与 RBC 模型不同的经济和政策含义： (1) 经济对于冲击的反应通常的无效率的； (2) 由于存在名义刚性而导致的货币政策非中性，使得货币当局纠正市场扭曲、增进社会福利的干预措施有了用武之地； (3) 模型适用于不同货币政策的分析和比较，而不受卢卡斯批判的制约。
+NK 模型具有与 RBC 模型不同的经济和政策含义：(1) 经济对于冲击的反应通常的无效率的；(2) 由于存在名义刚性而导致的货币政策非中性，使得货币当局纠正市场扭曲、增进社会福利的干预措施有了用武之地；(3) 模型适用于不同货币政策的分析和比较，而不受卢卡斯批判的制约。
 
 ## 3. DSGE 模型在中央银行中的应用
 
@@ -70,16 +70,14 @@ NK 模型具有与 RBC 模型不同的经济和政策含义： (1) 经济对于�
 
 <center>表 1 部分中央银行所使用的DSGE模型</center>
 
-| <center>中央银行</center>	               | DSGE 模型          |
-|:----------------------------------------|:------------------:|
-| 美国联邦储备局 (Federal Reserve Board)	| [EDO][EDO], [SIGMA][SIGMA]         |
+| <center>中央银行</center>	                | DSGE 模型                                 |
+|:---------------------------------------- |:-----------------------------------------:|
+| 美国联邦储备局 (Federal Reserve Board)	| [EDO][EDO], [SIGMA][SIGMA]                |
 | 加拿大银行 (Bank of Canada)	            | [ToTEM II][ToTEM II], [BoC-GEM][BoC-GEM]  |
-| 欧洲中央银行 (European Central Bank)	    | [NAWM II][NAWM II], [EAGLE-FLI][NAWM II] |
-| 英格兰银行 (Bank of England)	            | [COMPASS][COMPASS]            |
-| 瑞典中央银行 (Sveriges Riksbank)	        | [Ramses II][Ramses II]          |
-| 挪威银行 (Norges Bank)	                | [NEMO][NEMO]               |
-
-资料来源：各国央行网站
+| 欧洲中央银行 (European Central Bank)	    | [NAWM II][NAWM II], [EAGLE-FLI][NAWM II]  |
+| 英格兰银行 (Bank of England)	            | [COMPASS][COMPASS]                        |
+| 瑞典中央银行 (Sveriges Riksbank)	        | [Ramses II][Ramses II]                    |
+| 挪威银行 (Norges Bank)	                | [NEMO][NEMO]                              |
 
 ## 扩展阅读
 
@@ -101,7 +99,7 @@ Galí (2015) 是 DSGE 模型的经典教科书，本章中的「2. DSGE 模型�
 
 ## 参考文献
 
-[1]	DEL NEGRO M, SCHORFHEIDE F. DSGE Model-Based Forecasting [M]//Elliott G, Timmermann A. Handbook of Economic Forecasting. Elsevier. 2013: 57-140.
+[1]	DEL NEGRO M, SCHORFHEIDE F. DSGE Model-Based Forecasting [M] // Elliott G, Timmermann A. Handbook of Economic Forecasting. Elsevier. 2013: 57-140.
 
 [2]	GALí J. Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework and Its Applications (Second Edition)[M]. Princeton University Press, 2015.
 
