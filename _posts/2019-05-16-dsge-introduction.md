@@ -8,6 +8,7 @@ permalink: /archivers/dsge_introduction
 
 动态随机一般均衡 (Dynamic Stochastic General Equilibrium，DSGE) 模型是现代主流宏观经济理论的基本研究范式，不仅在学术领域中占据主导地位，同时也在中央银行的政策分析和经济预测中发挥巨大作用。
 
+
 ## 1. DSGE 模型的优点
 
 如其名称所示，DSGE 模型具有三大特征：
@@ -23,6 +24,7 @@ permalink: /archivers/dsge_introduction
 传统的计量经济模型存在一些难以忽视的缺点，例如：在模型设定上不是从经济个体的最优化行为决策出发，缺乏微观经济理论基础；微观经济分析和宏观经济分析基本处于割裂状态，模型缺乏良好的整体性；模型中通常采用静态预期或自适应预期，而不是理性预期，从而影响模型的模拟结果和政策分析；通常是非结构性模型，因此无法避免卢卡斯批判等。相比之下，DSGE 模型具有理论上的严谨性和一致性，在建模框架上呈现出显性的结构特点，在政策分析上具有优越性 (刘斌，2008) 。
 
 DSGE 模型主要有三方面的作用：讲故事、政策实验以及经济预测 (Del Negro & Schorfheide，2013) 。三者相辅相成，不可分割：构建符合现实的理论模型，以此探讨各经济变量之间的相互作用与联动关系，此谓「讲故事」；政策实验需要依托于设定良好的模型，从而考察不同经济政策对实际经济运行造成的影响；经济预测的准确性是检验模型设定是否合理的评判标准之一，而且更好的经济预测手段可以让央行和政府及早发现经济问题，及时采取合适的经济政策，从而更好地稳定经济。
+
 
 ## 2. DSGE 模型的类型
 
@@ -62,22 +64,24 @@ RBC 模型对宏观经济理论带来的冲击主要体现在以下三个方面�
 
 NK 模型具有与 RBC 模型不同的经济和政策含义：(1) 经济对于冲击的反应通常的无效率的；(2) 由于存在名义刚性而导致的货币政策非中性，使得货币当局纠正市场扭曲、增进社会福利的干预措施有了用武之地；(3) 模型适用于不同货币政策的分析和比较，而不受卢卡斯批判的制约。
 
+
 ## 3. DSGE 模型在中央银行中的应用
 
 随着 DSGE 模型在模型设定、求解技术以及参数估计等方面的巨大进步，中央银行开始在政策分析和经济预测中广泛应用 DSGE 模型。DSGE 模型能够为政策讨论和分析提供一个强有力的一致性框架，帮助识别经济波动的来源，评估不同政策的潜在效果，并具备与传统宏观计量模型相当的预测能力。
 
 全球主要经济体的中央银行均开发了分析本国或全球经济的 DSGE 模型，并在官方网站上公布了模型的具体设定甚至程序代码。表 1 列示了部分中央银行所使用的最新模型，并附上具体链接，以供参考。
 
-<center>表 1 部分中央银行所使用的 DSGE 模型</center>
+<center> 表 1 部分中央银行所使用的 DSGE 模型 </center>
 
-| <center>中央银行</center>	                | DSGE 模型                                 |
-|:---------------------------------------- |:-----------------------------------------:|
+| <center> 中央银行 </center>	            | DSGE 模型                                 |
+|:------------------------------------------|:-----------------------------------------:|
 | 美国联邦储备局 (Federal Reserve Board)	| [EDO][EDO], [SIGMA][SIGMA]                |
 | 加拿大银行 (Bank of Canada)	            | [ToTEM II][ToTEM II], [BoC-GEM][BoC-GEM]  |
 | 欧洲中央银行 (European Central Bank)	    | [NAWM II][NAWM II], [EAGLE-FLI][NAWM II]  |
 | 英格兰银行 (Bank of England)	            | [COMPASS][COMPASS]                        |
 | 瑞典中央银行 (Sveriges Riksbank)	        | [Ramses II][Ramses II]                    |
 | 挪威银行 (Norges Bank)	                | [NEMO][NEMO]                              |
+
 
 ## 扩展阅读
 
@@ -96,6 +100,7 @@ Galí (2015) 是 DSGE 模型的经典教科书，本章中的「2. DSGE 模型�
 > [http://assets.press.princeton.edu/chapters/s10495.pdf](http://assets.press.princeton.edu/chapters/s10495.pdf)
 > 
 > Galí, Jordi. (2015). Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework and Its Applications (Second Edition)
+
 
 ## 参考文献
 
