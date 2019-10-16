@@ -4,7 +4,7 @@ title: 商业研究
 permalink: /business/
 ---
 
-## [2019-10-15 减贫 —— 2019 诺贝尔经济学奖得主思想综述及对中国的启示](https://mp.weixin.qq.com/s/AvfvFMMxfSQLfKtKHnrgnw)
+## [2019-10-15 2019 诺贝尔经济学奖得主思想综述及对中国的启示](https://mp.weixin.qq.com/s/AvfvFMMxfSQLfKtKHnrgnw)
 
 2019 年诺贝尔经济学奖被授予阿比吉特·班纳吉（Abhijit Banerjee）、埃丝特·迪弗洛（Esther Duflo）和迈克尔·克雷默（Michael Kremer）三位经济学家，以表彰他们在减轻全球贫困研究领域作出的突出贡献。他们的主要经济思想体现在哪些方面？对中国的精准脱贫及全面建成小康社会有哪些政策意义？本文对此做全面综述。
 
