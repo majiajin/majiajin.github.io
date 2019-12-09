@@ -4,7 +4,7 @@ title: 商业研究
 permalink: /business/
 ---
 
-## [2019-12-06 该出手了，财政优于货币：2020年政策建议](https://mp.weixin.qq.com/s/xowEB6CgCx7Ys9l_2qyYWQ)
+## [2019-12-06 该出手了，财政优于货币：2020 年政策建议](https://mp.weixin.qq.com/s/xowEB6CgCx7Ys9l_2qyYWQ)
 
 当前中美贸易摩擦边打边谈、中国经济持续下行迈向「5」时代、拿掉猪以后都是通缩，面对内外部复杂严峻形势，政策面临重大抉择，财政、货币、汇率、结构性改革该如何发力？
 
