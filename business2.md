@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 商业研究
+title: 商业研究2
 permalink: /business2/
 ---
 
