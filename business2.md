@@ -19,7 +19,7 @@ permalink: /business2/
 本文旨在客观建设性地分析当前民营企业的生存境况、原因及建议。
 
 
-> # 宏观杠杆率
+# > 宏观杠杆率
 
 ## [2019-06-24 中国宏观杠杆报告：2019](https://mp.weixin.qq.com/s/Xqp_RAz3NR-1LHaAN9aoVA)
 
